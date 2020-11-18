@@ -18,7 +18,7 @@ Currently, I am completing Undergraduate in Civil & Environmental Engineering fr
 I'm interested in developing user friendly web apps in MERN Stack
 I love to work with new technologies and playing with different stacks.🤖
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SakifKhan98" alt="SakifKhan98" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zabir1998" alt="zabir1998" /></p>
 
 ## {...} My Stack
 
@@ -50,11 +50,11 @@ I love to work with new technologies and playing with different stacks.🤖
 </ul>
 
 <p align="left">
-  <a href="https://github.com/zabir1998"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SakifKhan98&layout=compact&theme=radical" />
+  <a href="https://github.com/zabir1998"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zabir1998&layout=compact&theme=radical" />
 </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SakifKhan98&align=center&theme=radical&repo=creative-agency-client&show_owner=true)](https://github.com/zabir1998/creative-agency-client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zabir1998&align=center&theme=radical&repo=creative-agency-client&show_owner=true)](https://github.com/zabir1998/creative-agency-client)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zabir1998&theme=synthwave&show_icons=true" alt="zabir1998" /> </h1>
 
